@@ -1,0 +1,69 @@
+#frame
+{
+    width: 1000px;
+    background-image: url(dscn0016.jpg);
+    margin: 0 auto;
+    display: table;
+    height: 100%;
+}
+#header
+{
+    width: 950px;
+    height: 50px;
+    background-color: #00FA9A;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#content
+{
+    height: 500px;
+    width: 600px;
+    background-color: #FFFF00;
+    margin: 25px;
+    float: left;
+}
+#sidebar
+{
+    background-color: FFFF00;
+    width: 200px;
+    height: 300px;
+    margin: 25 px;
+    float: right;
+}
+#footer
+{
+    display: table-footer-group;
+    width: 950px;
+    height: 50px;
+    background-color: #00FA9A;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+#menu
+{
+background:F7E348;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-size: 20px;
+    font-family: Comic Sans MC;
+    text-align: center;
+}
+#vmenu
+{
+  float: left;
+    background: #F7E348;
+    margin: 10px;
+    margin-top: 25px;
+    font-size: 20 px;
+    font-family: Comic Sans MC;
+    text-align: center;
+}
+#vmenu a
+{
+    display: block;
+}
